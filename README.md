@@ -70,3 +70,31 @@ Follow these steps to set up and run *Orbex* locally:
 - [Firebase](https://firebase.google.com/) project set up
 - Gemini AI API access
 
+## App Screenshots
+
+| Feature          | Screenshot                               |
+| ---------------- | ---------------------------------------- |
+| **Home Screen**   | ![Home Screen](https://your-link-here)   |
+| **Planet Explorer** | ![Explorer](https://your-link-here)    |
+| **Puzzle Games**  | ![Puzzle](https://your-link-here)        |
+| **Gemini AI**     | ![Gemini AI](https://your-link-here)     |
+
+## Future Enhancements
+
+We have several planned features and updates to improve *Orbex*:
+
+- **Augmented Reality (AR)**: Bringing space into your living room with AR! Visualize planets and celestial bodies in your real-world environment, providing a more immersive learning experience.
+- **Multiplayer Puzzle Mode**: A competitive mode where kids can challenge friends or other users to space-themed puzzles and quizzes.
+- **Expanded Space Content**: We plan to expand our database with more space facts, including recent discoveries, detailed info on space missions, and in-depth theories about exoplanets and the universe.
+- **Global Leaderboards**: Add leaderboards for kids to compete globally based on quiz performance and puzzle-solving speeds.
+
+Stay tuned for more exciting updates in future versions!
+
+## Contributing
+
+We welcome contributions to *Orbex*! Here's how you can contribute:
+
+1. **Fork** the repository
+2. **Create** a new branch for your feature or bug fix:
+   ```bash
+   git checkout -b your-feature-branch-name
