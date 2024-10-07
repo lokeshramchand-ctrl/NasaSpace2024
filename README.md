@@ -12,7 +12,6 @@ Welcome to **Orbex**, your gateway to the stars! *Orbex* is an interactive, kid-
 - [Installation](#installation)
 - [App Screenshots](#app-screenshots)
 - [Future Enhancements](#future-enhancements)
-- [
 
 ## Overview
 
@@ -89,11 +88,27 @@ We have several planned features and updates to improve *Orbex*:
 
 Stay tuned for more exciting updates in future versions!
 
-## Contributing
+## APK Installation
 
-We welcome contributions to *Orbex*! Here's how you can contribute:
+If you would like to try *Orbex* on your Android device, you can download the APK file and follow the steps below for installation:
 
-1. **Fork** the repository
-2. **Create** a new branch for your feature or bug fix:
-   ```bash
-   git checkout -b your-feature-branch-name
+### Steps to Install the APK:
+
+1. **Download the APK**: [Download Orbex APK](https://your-link-here)
+2. **Allow Installation from Unknown Sources**:
+   - Go to your phone's **Settings**.
+   - Navigate to **Security** or **Privacy**.
+   - Enable **Unknown Sources** (Allow apps from unknown sources).
+3. **Install the APK**:
+   - Locate the downloaded APK file on your device.
+   - Tap on the file to start the installation.
+   - Follow the on-screen instructions to complete the installation.
+4. **Launch the App**:
+   - Once installed, open the *Orbex* app from your app drawer.
+   - Register or log in and begin exploring space with *Orbex*!
+
+> **Note**: Make sure to enable **Unknown Sources** only for this installation and disable it again after installation for security reasons.
+
+---
+
+By adding the link in `Download Orbex APK`, you can host the APK file on GitHub by uploading it to your repository, or you can host it externally if needed.
