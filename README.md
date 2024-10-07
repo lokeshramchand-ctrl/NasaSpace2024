@@ -1,6 +1,6 @@
 # Orbex 🌌 - An Interactive Space Exploration App for Kids
 
-![Orbex Logo](<a href="https://www.flaticon.com/free-icons/planet" title="planet icons">Planet icons created by fjstudio - Flaticon</a>)
+![Orbex Logo](./images/planet.png)
 
 Welcome to **Orbex**, your gateway to the stars! *Orbex* is an interactive, kid-friendly mobile app that brings space exploration to life through stunning animations, educational content, fun puzzles, and real-time AI-powered insights. Designed for young learners and space enthusiasts, *Orbex* combines modern technologies like **Firebase** and **Gemini AI** to create an immersive educational experience.
 
