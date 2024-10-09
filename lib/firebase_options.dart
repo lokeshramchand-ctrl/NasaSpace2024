@@ -47,7 +47,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAyJDg3OXTHg0myzrci8YM6D_fvBi5HQms',
+    //apiKey: 'YOUR API-KEY',
     appId: '1:117093957120:web:fe2a64e85729121c9d22e5',
     messagingSenderId: '117093957120',
     projectId: 'nasa-e1e15',
@@ -57,7 +57,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDMEBXG_wULxv_gXK-E8uFvF9iecKlMrXI',
+    //apiKey: 'YOUR API-KEY',
     appId: '1:117093957120:android:d5c7afdc9d7d66689d22e5',
     messagingSenderId: '117093957120',
     projectId: 'nasa-e1e15',
@@ -65,7 +65,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAsRX7XCcvJtBEJiw-gInaewMwLGiAvNcQ',
+    //apiKey: 'YOUR API-KEY',
     appId: '1:117093957120:ios:2b70ba94643d93769d22e5',
     messagingSenderId: '117093957120',
     projectId: 'nasa-e1e15',
