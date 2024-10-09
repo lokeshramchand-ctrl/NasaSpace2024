@@ -1,0 +1,42 @@
+name: nasa
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+
+dependencies:
+  cupertino_icons: ^1.0.6
+  draggable_scrollbar: ^0.1.0
+  firebase_auth: ^5.3.0
+  firebase_core: ^3.5.0
+  flutter:
+    sdk: flutter
+  gap: ^3.0.1
+  google_fonts: ^6.2.1
+  google_nav_bar: ^5.0.6
+  lottie: ^3.1.2
+  provider: ^6.1.2
+  simple_animations: ^5.0.2
+  video_player: ^2.9.1
+  flutter_screenutil: ^5.3.1
+  delayed_display: ^2.0.0
+  carousel_slider: ^4.0.0
+  auto_size_text: ^3.0.0
+  bottom_sheet: ^2.0.0
+  easy_rich_text: ^1.0.4
+  url_launcher: ^6.0.20
+
+dev_dependencies:
+  flutter_lints: ^3.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+    - assets/icons/
+    - assets/img_planets/

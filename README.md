@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Orbex 🌌 - An Interactive Space Exploration App for Kids
 
 ![Orbex Logo](./images/earth.png)
@@ -112,3 +113,21 @@ If you would like to try *Orbex* on your Android device, you can download the AP
 ---
 
 By adding the link in `Download Orbex APK`, you can host the APK file on GitHub by uploading it to your repository, or you can host it externally if needed.
+=======
+# nasa
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+>>>>>>> c3c37c4 (Added my project)
