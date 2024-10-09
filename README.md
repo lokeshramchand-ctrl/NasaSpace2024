@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Orbex 🌌 - An Interactive Space Exploration App for Kids
 
 ![Orbex Logo](./images/earth.png)
@@ -11,7 +10,6 @@ Welcome to **Orbex**, your gateway to the stars! *Orbex* is an interactive, kid-
 - [Technologies Used](#technologies-used)
 - [How It Works](#how-it-works)
 - [Installation](#installation)
-- [App Screenshots](#app-screenshots)
 - [Future Enhancements](#future-enhancements)
 
 ## Overview
@@ -68,15 +66,6 @@ Follow these steps to set up and run *Orbex* locally:
 - [Flutter](https://flutter.dev/docs/get-started/install) SDK installed
 - [Firebase](https://firebase.google.com/) project set up
 - Gemini AI API access
-
-## App Screenshots
-
-| Feature          | Screenshot                               |
-| ---------------- | ---------------------------------------- |
-| **Home Screen**   | ![Home Screen](https://your-link-here)   |
-| **Planet Explorer** | ![Explorer](https://your-link-here)    |
-| **Puzzle Games**  | ![Puzzle](https://your-link-here)        |
-| **Gemini AI**     | ![Gemini AI](https://your-link-here)     |
 
 ## Future Enhancements
 
