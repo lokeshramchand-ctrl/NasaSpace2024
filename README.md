@@ -14,7 +14,7 @@ Welcome to **Orbex**, your gateway to the stars! *Orbex* is an interactive, kid-
 
 ## Overview
 
-For the **NASA Space Apps Challenge 2024**, we developed *Orbex* to inspire children to explore space and learn about the solar system, exoplanets, and space phenomena. The app is filled with animations, interactive features, and puzzles that make learning about space both fun and engaging.
+For the **NASA Space Apps Challenge 2024**, we developed *Orbex* to inspire children to explore space and learn about the solar system, exoplanets, and space phenomena. The app is filled with animations, interactive features, and puzzles that make learning about space both fun and engaging and inspirational 
 
 *Orbex* is built using **Flutter**, integrates **Firebase** for user authentication, and uses **Gemini AI** to provide real-time facts and interactive learning experiences. The app is designed to make space exploration accessible and engaging for all ages, with a special focus on young learners.
 
